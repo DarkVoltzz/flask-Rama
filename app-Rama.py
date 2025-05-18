@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return "jenkins est vraiment chiant parfois"
+    return "jen ai marre"
 
 print("ald")
 
